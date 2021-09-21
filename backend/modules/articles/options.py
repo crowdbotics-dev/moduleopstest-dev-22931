@@ -1,1 +1,1 @@
-MEDIA_UPLOAD_PATH = "mediafiles/article/"
+MEDIA_UPLOAD_PATH = "mediafiles/article/new"
